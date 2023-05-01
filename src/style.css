@@ -1,0 +1,37 @@
+h1,h2,h3{
+    margin-top:0px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color:white;
+    background-color:black;
+    padding: 20px;
+}
+
+.heading{
+    background-color: red;
+}
+
+img{
+    width:300px;
+}
+
+.top{
+    text-align: center;
+    background-color: yellow;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    text-align: center;
+    background-color: green;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
